@@ -9,7 +9,7 @@ int main() {
     printf("Hullo, mate! I'll show you as many numbers in the Fibonacci sequences as you like.\n")
     printf("Give me how many numbers of the Fibonacci sequence you want to display (>=3): ");
 
-    scanf("%d", n);
+    scanf("%d", &n);
 
     printf("0, 1");
 
